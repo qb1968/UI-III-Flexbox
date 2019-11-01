@@ -79,7 +79,7 @@ h1, h2, h3, h4, h5 {
 
 .container{
 	display: flex;
-	justify-content: space-around;
+justify-content: center;
 	padding:0;
 	margin: auto 0;
 }
@@ -137,4 +137,77 @@ h1, h2, h3, h4, h5 {
 	width: 10%;
 	height: 75px;
 	padding: 5px;
+}
+.services{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	margin:50px;
+	width: 75%;
+	height:250px;
+	padding: 10px;	
+}
+.digital{
+	display: flex;
+	flex-direction: column;
+	justify-content:center;
+	margin:50px;
+	width: 50%;
+	height: 250px;
+	padding: 0px;	
+	
+}
+.text1{
+	display: flex;
+	flex-direction: column;
+	justify-content:center;
+	margin:0;
+	width: 50%;
+	height: 250px;
+	padding: 0px;	
+}
+.text2{
+	display: flex;
+	flex-direction: column;
+	justify-content:center;
+	margin:50px;
+	width: 50%;
+	height: 250px;
+	padding: 0px;	
+}
+.text3{
+	display: flex;
+	flex-direction: column;
+	justify-content:center;
+	margin:50px;
+	width: 50%;
+	height: 250px;
+	padding: 0px;		
+}
+.text4{
+	display: flex;
+	flex-direction: column;
+	justify-content:center;
+	margin:50px;
+	width: 50%;
+	height: 250px;
+	padding: 0px;	
+}
+.text5{
+	display: flex;
+	flex-direction: column;
+	justify-content:center;
+	margin:50px;
+	width: 50%;
+	height: 250px;
+	padding: 0px;		
+}
+.text6{
+	display: flex;
+	flex-direction: column;
+	justify-content:center;
+	margin:50px;
+	width: 50%;
+	height: 250px;
+	padding: 0px;		
 }
